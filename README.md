@@ -1,5 +1,5 @@
 # local-llms-analyze-finance
-I came accross this youtube video, and decided to build on the original creators content.
+I came across this you tube video, and decided to build on the original creators content. 
 https://www.youtube.com/watch?v=h_GTxRFYETY
 
 ## Personal finance dashboard:
