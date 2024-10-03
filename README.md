@@ -1,10 +1,5 @@
-# local-llms-analyse-finance
-In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
-
-## Installing local LLMs with Ollama (currently support MacOS and Linux)
-https://ollama.ai/
-
-## Tutorial video: 
+# local-llms-analyze-finance
+I came accross this youtube video, and decided to build on the original creators content.
 https://www.youtube.com/watch?v=h_GTxRFYETY
 
 ## Personal finance dashboard:
